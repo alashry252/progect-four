@@ -475,9 +475,6 @@ border-top-color: #22c55e;
     font-weight: bold;
 }
 @media (max-width:767px){
-    .box-4 .flex{
-        flex-direction: column;
-    }
     .box-4 .box{
         width: 100%;
     }
